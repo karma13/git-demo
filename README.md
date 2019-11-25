@@ -2,7 +2,7 @@
 
 This is the first file in this repo.
 
-## Ipsum Below
+<!-- ## Ipsum Below
 Tomorrow, and tomorrow, and tomorrow,
 Creeps in this petty pace from day to day
 To the last syllable of recorded time,
@@ -17,4 +17,7 @@ Signifying nothing.
 Now is the winter of our discontent
 Made glorious summer by this son of York,
 And all the clouds that loured upon our house
-In the deep bosom of the ocean buried.
+In the deep bosom of the ocean buried. -->
+
+## Website Contents
+1. index.html
