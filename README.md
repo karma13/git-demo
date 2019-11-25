@@ -13,3 +13,8 @@ That struts and frets his hour upon the stage
 And then is heard no more. It is a tale
 Told by an idiot, full of sound and fury,
 Signifying nothing.
+
+Now is the winter of our discontent
+Made glorious summer by this son of York,
+And all the clouds that loured upon our house
+In the deep bosom of the ocean buried.
